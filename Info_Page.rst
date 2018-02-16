@@ -6,12 +6,12 @@ Professional Skills
    :header-rows: 1
 
    * - Programming Languages
-     - Heading row 1, column 2
-     - Heading row 1, column 3
+     - Game Design Software
+     - Office Suite
    * - Java
-     - Row 2, column 2
-     - Row 2, column 3
+     - Unity 3D
+     - Microsoft Word
    * - HTML
-     - Row 3, column 2
-     - Row 3, column 3
+     - Unreal Development Kit
+     - Microsoft Excel
  
