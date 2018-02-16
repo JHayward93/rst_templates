@@ -16,12 +16,5 @@ Professional Skills
      - Microsoft Excel
      
      
-     .. code-block:: HTML
-
-  <html>
-     <head/>
-     <body>
-
-     </body>
-  </html>
+    
  
