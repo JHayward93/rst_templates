@@ -15,8 +15,8 @@ Professional Skills
      - Unreal Development Kit
      - Microsoft Excel
      
-     Coding Example
-     ***************
+Coding Example
+****************
     
 .. code-block:: HTML
 
