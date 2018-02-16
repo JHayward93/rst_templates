@@ -25,11 +25,11 @@ Professional Skills
        <body>
          package loops;
 
-import java.util.Scanner;
+         import java.util.Scanner;
 
-public class Loops {
+         public class Loops {
 
-    public static void main(String[] args) {
+         public static void main(String[] args) {
        
         
         int n; //create variable 
@@ -40,10 +40,9 @@ public class Loops {
         System.out.println("That is not a number between 1 and 10"); 
         System.out.println("Please a number"); //while number is not 1 through 10, it will ask the user to input a number
         n = userInput.nextInt();
-    } 
+         } 
       System.out.println("Good job! The number you put was " + n ); // prints when the user inputs a number 1 through 10
-    }
-    }
-
+         }
+          }
        </body>
       </html>
