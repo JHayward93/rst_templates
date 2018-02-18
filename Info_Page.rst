@@ -47,6 +47,8 @@ Coding Example
           }
        </body>
       </html>
-..only :: Professor
+.. only::  Professor
 This message is intented for the teacher only. I am really enjoying Tools and Technologies so far. It is interesting to see what tools the other writers of the world are using in todays time. Being a new writer, it is great to learn all these different things.
 
+.. only:: Student
+This message is intended for the students only. While I am new to the Technical Writing field, I dont have much advice for everyone interested in the subject. Hard work and determination are the key factors to achieving your goals. 
