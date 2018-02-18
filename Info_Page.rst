@@ -47,3 +47,6 @@ Coding Example
           }
        </body>
       </html>
+..only :: Professor
+This message is intented for the teacher only. I am really enjoying Tools and Technologies so far. It is interesting to see what tools the other writers of the world are using in todays time. Being a new writer, it is great to learn all these different things.
+
