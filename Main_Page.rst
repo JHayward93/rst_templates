@@ -4,11 +4,11 @@ Justin Hayward
 About me
 *********
 
-Three things that I would describe who I am
+Three things that I would describe who I am:
 
 * I am a gamer
 * I am a musician
-* I enjoy activities such as hiking swimming
+* I enjoy activities such as hiking and swimming
 
 .. |Current class| replace:: Tools and Technology
 
