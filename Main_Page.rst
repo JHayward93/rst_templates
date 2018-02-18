@@ -21,9 +21,8 @@ Three of my all time favorite foods
 #. Pizza.
 
 
-.. |Substitution| replace:: Text to show user
+.. |Current class| replace:: Tools and Technology
 
-
-You then add |Substitution| in the topic where you want the text to be.
+I am going back to school to get certifications in my job. The current class I am taking is |Current class|.
 
 
