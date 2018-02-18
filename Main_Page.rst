@@ -23,6 +23,6 @@ Three of my all time favorite foods
 
 .. |Current class| replace:: Tools and Technology
 
-I am going back to school to get certifications in my job. The current class I am taking is |Current class|.
+I am going back to school to get certified in my job. The current class I am taking is |Current class|.
 
 
