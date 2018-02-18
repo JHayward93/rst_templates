@@ -4,7 +4,8 @@ Interests
 
  |Substitution-Luigi|
  
- . note::
+
+. note::
 I get very defensive when it comes to choosing my character in a mario game. I either play as Luigi or I do not play at all.
 
 Videos I enjoy
