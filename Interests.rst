@@ -2,7 +2,9 @@ Interests
 **********
 
 
- |Substitution-Luigi|
+ .. image:: latest.png
+  :width: 400
+  :alt: Luigi
  
 
 .. note::
