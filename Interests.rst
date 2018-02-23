@@ -3,8 +3,8 @@ Interests
 
 
  .. image:: latest.png
-  :width: 400
-  :alt: Luigi
+  :width: 200
+  :alt: Luigi 
  
 
 .. note::
